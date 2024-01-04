@@ -7,7 +7,7 @@ Here we have project screenshot :
 ![screenshot1](Design-01.png)
 
 ### Mobile Screenshot
-![screenshot2](Design-2.png)
+![screenshot2](Design-02.png)
 
 ### Tablet Screenshot
 ![screenshot2](Design-03.png)
